@@ -1,0 +1,22 @@
+#btn{
+    padding: 5px;
+    margin: 10px;
+    background-color: rgb(33, 31, 31);
+    color:yellow;
+    border-radius: 10px;
+
+}
+.para{
+    margin-top: 1%;
+    margin-left: 4%;
+}
+.card-body{
+    padding: 10px;
+}
+.card{
+    width: 70rem;  
+}
+
+
+
+  
